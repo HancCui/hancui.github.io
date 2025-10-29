@@ -20,15 +20,14 @@ In June-Sep, 2023, I interned at PCG, Tencent as an algorithm engineer.
 
 📻 News
 =======
-* huo
-* 🎉 Our [Paper](https://arxiv.org/pdf/2402.10812) *DVO* is accepted by EMNLP-2025, Main Conference.
+* [IterSurvey](https://arxiv.org/abs/2510.21900) has been released.
+* 🎉 Our [Paper](https://arxiv.org/pdf/2502.13723) *DVO* is accepted by EMNLP-2025, Main Conference.
 * 🎉 Our [Paper](https://arxiv.org/pdf/2402.10812) *HProPro* is accepted by ACL-2024, Main Conference.
 
 ---
 
 📑 Publictions:
 ===============
-
 
 **Deep Literature Survey Automation with an Iterative Workflow**, Preprint.
 - Hongbo Zhang*, Han Cui*, Yidong Wang, Yijian Tian, Qi Guo, Cunxiang Wang, Jian Wu, Chiyu Song, Yue Zhang [[Paper](https://arxiv.org/abs/2510.21900), [Code]()]
