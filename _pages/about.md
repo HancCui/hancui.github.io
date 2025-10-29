@@ -20,13 +20,24 @@ In June-Sep, 2023, I interned at PCG, Tencent as an algorithm engineer.
 
 📻 News
 =======
-
-* 🎉 Our [Paper](https://arxiv.org/pdf/2402.10812) is accepted by ACL-2024, Main Conference.
+* huo
+* 🎉 Our [Paper](https://arxiv.org/pdf/2402.10812) *DVO* is accepted by EMNLP-2025, Main Conference.
+* 🎉 Our [Paper](https://arxiv.org/pdf/2402.10812) *HProPro* is accepted by ACL-2024, Main Conference.
 
 ---
 
 📑 Publictions:
 ===============
+
+
+**Deep Literature Survey Automation with an Iterative Workflow**, Preprint.
+- Hongbo Zhang*, Han Cui*, Yidong Wang, Yijian Tian, Qi Guo, Cunxiang Wang, Jian Wu, Chiyu Song, Yue Zhang [[Paper](https://arxiv.org/abs/2510.21900), [Code]()]
+- To solve issues in existing automatic literature survey systems, we proposes the *IterSurvey* framework (inspired by human iterative reading, with incremental outline updates, paper cards, and a visualization-enhanced review loop) that outperforms baselines, introduces the Survey-Arena benchmark, and makes code public.
+
+**Direct Value Optimization:Improving Chain-of-Thought Reasoning in LLMs with Refined Values**, **[EMNLP 2025]**
+- Hongbo Zhang*, Han Cui*, Guangsheng Bao*, Linyi Yang, Jun Wang, Yue Zhang [[Paper](https://arxiv.org/abs/2502.13723), [Code](https://github.com/StevenZHB/DVO)]
+- Direct Value Optimization (DVO) is a novel reinforcement learning framework that enhances language models' reasoning capabilities through step-level value signals rather than preference labels.
+- Using Monte Carlo Tree Search or value models to estimate target values, DVO achieves superior performance in mathematical and commonsense reasoning tasks while requiring less training data compared to traditional preference optimization methods.
 
 **HProPro: Exploring Hybrid Question Answering via Program-based Prompting**, **[ACL 2024]**
 
